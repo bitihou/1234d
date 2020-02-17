@@ -3,5 +3,7 @@ public class HjjTest {
         System.out.print("Hello world");
         System.out.print("my name is hjj");
         System.out.print("tijiao and push");
+        System.out.print("new branch");
+
     }
 }
